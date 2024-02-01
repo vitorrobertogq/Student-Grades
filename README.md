@@ -1,16 +1,16 @@
 # Student-Grades
 
-##O Desafio foi criar uma aplicação integrada ao google sheets que determinava a situação de alunos com base na nota das provas e quantidade de faltas
+## The challenge was to create an application integrated with Google Sheets that determined the students' situation based on exam grades and the number of absences.
 
-## Ferramentas Utilizadas
+## Tools Used
 ### Django 5.0.1
 ### Gspread 6.0.0
 ### Sheets API from Google Cloud
 ### Bootstrap
 
-## Como rodar a aplicação
+## How to run the application
 
-### 1 - Entre no diretório "student_grades"
-### 2 - Execute o seguinte comando "python manage.py runserver"
-### 3 - Insira o link da sheets que deseja editar (de preferencia publica e editaval pelo publico) e seguindo o modelo descrito
-### 4 - Volte para a planilha
+### 1 - Navigate to the "student_grades" directory
+### 2 - Execute the following command "python manage.py runserver"
+### 3 - Insert the link of the sheet you want to edit (preferably public and editable by the public) following the described template
+### 4 - Return to the spreadsheet
